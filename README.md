@@ -3,5 +3,5 @@
  - Flutter Layout Explorer Experience Design
  
  ###  😄 Flutter Dart Dash Mascot
-  ⚡ Badges, Icons, Animations, OOP assets, Coloring pages, Activity pages, Dash Memes ⚡
+  ⚡ [Badges](https://github.com/raison00/flutter-dash-dart-badges), Icons, Animations, OOP assets, Coloring pages, Activity pages, Dash Memes ⚡
 
