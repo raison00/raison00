@@ -1,8 +1,8 @@
 ### I am working on ... 
-<img width="200" height="200" alt="android-apps" src="https://github.com/user-attachments/assets/1114a814-c140-4d06-a938-efd6f27938bd" />
+<img width="200" height="200" alt="android-apps" src="https://github.com/user-attachments/assets/1114a814-c140-4d06-a938-efd6f27938bd" />    [Android's native UI with Material3. ](https://m3.material.io/develop/android/jetpack-compose)
  - Updating Android's modern UI toolkit to be adaptive for all form factors to "just work" (Phone, Desktop, XR, TV, Android large screen devices, including tablets, foldables, ChromeOS devices, car displays, and TVs, etc)
  - Composing adaptive and declarative UI with the Material Design System using Jetpack Compose, Android's modern toolkit for building native UI, in conjunction with Material Design principles.
-   [Compose provides a rich set of pre-built Material Design components](https://m3.material.io/develop/android/jetpack-compose)
+   [Android's modern toolkit for building native UI. ](https://m3.material.io/develop/android/jetpack-compose)
 
   ### What are adaptive apps?
 Adaptive apps change layouts based on changes in the app display, primarily the size of the app window. But adaptive apps also accommodate changes in the posture of foldable devices, such as tabletop or book posture, and changes in screen density and font size.
