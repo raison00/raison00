@@ -13,8 +13,9 @@ Instead of just stretching or shrinking UI elements in response to different win
  - [Flutter DevTools Design System](https://m3.material.io/develop/flutter)
  - [Flutter DevTools Layout Explorer Concepts and Executions](https://docs.flutter.dev/tools/devtools/inspector)
  - [Flutter DevTools Experience Design](https://docs.flutter.dev/tools/devtools)
- -  Flutter DevTools Layout Explorer IDE Experience Design integration with IDEs IntelliJ and VSCode
- - ![Flutter DevTools Layout Explorer IDE Experience Design](https://docs.flutter.dev/assets/images/docs/tools/android-studio/main-toolbar.png)
+ - [Flutter DevTools Layout Explorer IDE Experience Design integration with IDEs IntelliJ and VSCode](https://docs.flutter.dev/tools/devtools)
+ - [Flutter DevTools Layout Explorer IDE Experience Design](https://docs.flutter.dev/tools/devtools/inspector
+ - [Flutter DevTools in the Android Studio and IntelliJ IDE Experience Design](https://docs.flutter.dev/tools/android-studio)
  
  ###  ![dash character](http://www.feliciachamberlain.com/flutter/dash-dart.ico/android-icon-48x48.png) Flutter Dart Dash Mascot
   ⚡ [Badges](https://github.com/raison00/flutter-dash-dart-badges), [Icons](https://github.com/raison00/dash-icon), [Illustrations](https://github.com/raison00/flutter-dart-dash-illos), [Animations](https://github.com/raison00/flutter-animation), OOP assets, Coloring pages, Activity pages, Dash Memes ⚡
