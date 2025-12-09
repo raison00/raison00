@@ -11,7 +11,7 @@
   ### What are adaptive apps?
 Adaptive apps change layouts based on changes in the app display, primarily the size of the app window. But adaptive apps also accommodate changes in the posture of foldable devices, such as tabletop or book posture, and changes in screen density and font size.
 
-Instead of just stretching or shrinking UI elements in response to different window sizes, adaptive apps replace layout components and show or hide content. For example, on standard phones, an adaptive app might display a bottom navigation bar, but on large screens, a navigation rail. On large screens, adaptive apps display more content, such as a two-pane, list-detail layout; on small screens, less content, either the list or the detail.
+Instead of just stretching or shrinking UI elements in response to different window sizes, adaptive apps replace layout components and show or hide content. For example, on standard phones, an adaptive app might display a bottom navigation bar, but on large screens, a navigation rail. 
 
 [Why adopt Compose](https://developer.android.com/develop/ui/compose/why-adopt)
 
