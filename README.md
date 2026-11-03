@@ -1,18 +1,17 @@
-### In 2025 and 2026 I was a Development UX Design Engineer working on ... 
+### In 2025 and 2026 I was a UX Adaptive Design Development Strategist working on Android 18... 
 | <img width="200" height="200" alt="android-apps" src="https://github.com/user-attachments/assets/1114a814-c140-4d06-a938-efd6f27938bd" /> | <img  height="200" alt="android-apps" src="https://developer.android.com/static/blog/assets/image5_b94c904f85_1rJTxU.webp" />   |
 
 
  ## Jetpack Compose: [Android's modern toolkit for building native UI. ](https://m3.material.io/develop/android/jetpack-compose) 
+   Composing adaptive and declarative UI with the Material Design System using Jetpack Compose, in conjunction with Material Design principles. Updating Android's modern UI toolkit to be adaptive for all form factors to "just work" (Phone, Desktop, XR, TV, Android large screen devices, including tablets, foldables, ChromeOS devices, car displays, and TVs, etc)
  -  [releasing in 2026 and 2027 in Android 18](https://www.androidauthority.com/)
 
 
-
- - Updating Android's modern UI toolkit to be adaptive for all form factors to "just work" (Phone, Desktop, XR, TV, Android large screen devices, including tablets, foldables, ChromeOS devices, car displays, and TVs, etc)
- -  - [Android Auto UI fixes](https://www.androidauthority.com/android-auto-one-ui-9-fix-3730903/)
-  Composing adaptive and declarative UI with the Material Design System using Jetpack Compose, in conjunction with Material Design principles.
    -  [Android's native UI with Material3. ](https://m3.material.io/develop/android/jetpack-compose)
 - [Android UI Development is Compose First](https://developer.android.com/develop/ui/compose/first)
- - [Android Dev Summit](https://rsvp.withgoogle.com/events/android-dev-summit-bayview/home?pli=1)
+
+ - [Android Auto UI fixes](https://www.androidauthority.com/android-auto-one-ui-9-fix-3730903/)
+
 
   ### What are adaptive apps?
 Adaptive apps change layouts based on changes in the app display, primarily the size of the app window. But adaptive apps also accommodate changes in the posture of foldable devices, such as tabletop or book posture, and changes in screen density and font size.
@@ -20,6 +19,7 @@ Adaptive apps change layouts based on changes in the app display, primarily the 
 Instead of just stretching or shrinking UI elements in response to different window sizes, adaptive apps replace layout components and show or hide content. For example, on standard phones, an adaptive app might display a bottom navigation bar, but on large screens, a navigation rail. 
 
 - [Why adopt Compose](https://developer.android.com/develop/ui/compose/why-adopt)
+- [Android Dev Summit 2026](https://rsvp.withgoogle.com/events/android-dev-summit-bayview/home?pli=1)
 
  ### <img width="36" alt="Flutter logo" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"> Flutter Dev Tools Suite and Layout Explorer: [Flutter and Dart DevTools](https://docs.flutter.dev/tools/devtools) 
 - [Flutter DevTools Document and Guide](https://docs.flutter.dev/)
